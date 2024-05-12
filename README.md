@@ -1,5 +1,4 @@
 <h2 align="center">Hi there, I'm Grigoriy</a> 
----
 
 ### :man_technologist: About Me :
 Computer science student from Russia and I'm actively looking for a job
