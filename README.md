@@ -1,16 +1,16 @@
 <h2 align="center">Hi there, I'm Grigoriy</a> 
-<h3 align="center">Computer science student from Russia</h3>
-<!--
-**forgitaccaunt/forgitaccaunt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Computer science student from Russia and I'm actively looking for a job.</h3>
 
-Here are some ideas to get you started:
+### :man_technologist: About Me :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently working on my pet-project.
+
+I’m currently learning:
+- Python (Flake8, MyPY)
+- Django
+- PostgreSQL
+- SQLite3
+- Git
+- Github
+- Postman
+- API
