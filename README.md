@@ -1,7 +1,3 @@
-<h2 align="center"> 
-  
-  ![](https://i.pinimg.com/564x/18/ea/ad/18eaad1123225e1e86eacec739ff5ecf.jpg)
-  </a> 
 <h2 align="center"> Привет. Моё имя Григорий.</a> 
 
 # Обо мне:
@@ -29,3 +25,7 @@
 - georgeongit@gmail.com
 - TG: @thaigodtattoo
 
+<h2 align="center"> 
+  
+  ![](https://i.pinimg.com/564x/18/ea/ad/18eaad1123225e1e86eacec739ff5ecf.jpg)
+  </a> 
