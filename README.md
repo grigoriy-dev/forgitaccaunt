@@ -1,19 +1,26 @@
-<h2 align="center">Hi there, I'm Grigoriy</a> 
+<h2 align="center"> Привет. Моё имя Григорий.</a> 
 
-### :man_technologist: About Me :
-Computer science student from Russia and I'm actively looking for a job
 
-I’m currently working on my [pet-project](https://github.com/forgitaccaunt/vault_98)
+# Обо мне:
+Я разработчик Python из Москвы, есть профильное образование и релевантный опыт работы.
 
-  ### :hammer_and_wrench: Languages and Tools :
+В настоящий момент ищу работу. 
+
+Работал в разных областях, в том числе смежных с IT (техподдержка, ui дизайн / графический дизайн на фрилансе). Считаю, что мой разносторонний опыт помогает в развитии софт-скиллов.
+У меня есть живой интерес к разработке, и я понимаю, что хочу профессионально развиваться (и реализовываться) именно в этом направлении.
+
+## Актуальный стек:
 - Python (Flake8, MyPY)
 - Django
-- PostgreSQL
-- SQLite3
+- SQL (PostgreSQL, SQLite3
 - Git
 - Github
 - Postman
-- API
+- FastAPI
 
-  ### How to search me :
-  TG: @thaigodtattoo
+
+## Контакты:
+- [@Grigoriy](https://www.github.com/forgitaccaunt)
+- georgeongit@gmail.com
+- TG: @thaigodtattoo
+
