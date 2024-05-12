@@ -15,4 +15,5 @@ I’m currently working on my [pet-project](https://github.com/forgitaccaunt/vau
 - Postman
 - API
 
-  ### :call: How to search me :
+  ### How to search me :
+  TG: @thaigodtattoo
