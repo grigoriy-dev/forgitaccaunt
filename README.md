@@ -4,7 +4,8 @@
 Computer science student from Russia and I'm actively looking for a job
 
 I’m currently working on my [pet-project](https://github.com/forgitaccaunt/vault_98)
-### :hammer_and_wrench: Languages and Tools :
+
+  ### :hammer_and_wrench: Languages and Tools :
 - Python (Flake8, MyPY)
 - Django
 - PostgreSQL
@@ -14,4 +15,4 @@ I’m currently working on my [pet-project](https://github.com/forgitaccaunt/vau
 - Postman
 - API
 
-  ### :hammer_and_wrench: How to search me :
+  ### :call: How to search me :
