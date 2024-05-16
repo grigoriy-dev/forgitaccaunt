@@ -20,11 +20,13 @@ https://github.com/forgitaccaunt/vault_98
 Что в нём: БД, запросы к API, логгирование, кеширование, авторизация, валидации, игры.
 
 ## Актуальный стек:
-- Python (Flake8, MyPY)
-- Django
+- Python
 - SQL (PostgreSQL, SQLite3
+- SQLAlchemy
 - Git
-- Github
+- Docker
+- Redis
+- RabbitMQ
 - Postman
 - FastAPI
 
