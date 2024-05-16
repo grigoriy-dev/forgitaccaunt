@@ -21,7 +21,7 @@ https://github.com/forgitaccaunt/vault_98
 
 ## Технические навыки:
 - Python
-- SQL (PostgreSQL, SQLite3
+- SQL (PostgreSQL, SQLite3)
 - SQLAlchemy
 - Git
 - Docker
