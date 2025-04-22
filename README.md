@@ -28,7 +28,7 @@
 ## Контакты:
 - [@Grigoriy](https://www.github.com/forgitaccaunt)
 - georgeongit@gmail.com
-- TG: @thaigodtattoo
+- TG: @georgeongit
 
 <h2 align="center"> 
   
